@@ -1,0 +1,6 @@
+{
+  "debug_output": "ApiKeysResponse { keys: Some([455fc940-5e37-d92d-9358-11372266e0ff]) }",
+  "structure": {
+    "apiKeys": "Option<Vec<Uuid>> - see debug_output above for actual values"
+  }
+}
